@@ -1,0 +1,132 @@
+.footer {
+    background-color: #f8f9fa;
+    padding: 30px 0;
+  }
+  
+  .footer-logo {
+    width: 150px; /* Ajustez la taille du logo selon vos besoins */
+  }
+  
+  .footer-description {
+    color: #777;
+  }
+  
+  .footer-links li {
+    list-style: none;
+  }
+  
+  .footer-links a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .footer-links a:hover {
+    color: #666;
+  }
+  
+  .input-group {
+    width: 100%;
+  }
+  
+  .footer-social-icons {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .footer-social-icons li {
+    list-style: none;
+  }
+  
+  .footer-social-icons li svg {
+    color: #333;
+    font-size: 24px;
+  }
+  
+  .download-buttons {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .download-buttons button {
+    margin-bottom: 10px;
+  }
+  
+  @media (max-width: 768px) {
+    .footer-logo {
+      width: 100px; /* Réduire la taille du logo sur les petits écrans */
+    }
+  }
+  
+
+
+  .button-Up {
+    position: fixed; /* Utiliser "fixed" pour garder le bouton visible lors du défilement */
+    bottom: 40px;
+    right: -10px;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #7447FF;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 100;
+    border: #7447FF;
+    transition: 0.5s;
+  }
+  
+  
+  .button-Up:hover {
+    transform: scale(1.1);
+  }
+  
+  .button-Up:active {
+    background-color: #8761f9;
+  }
+  
+  .arrow-up {
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35%;
+    margin-bottom: 60%;
+    border-bottom: 15px solid white;
+  }
+
+
+  .commentairecard > .card-footer > .text-end {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  
+  .commentairecard > .card-footer > .text-end > .btn-outline-danger {
+    visibility: hidden;
+  }
+  
+  .commentairecard:hover > .card-footer > .text-end > .btn-outline-danger {
+    visibility: visible;
+  }
+  
+  .comment-button{
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+
+  .comment-button > .button-text {
+
+    display: none;
+  }
+
+  .comment-button:hover > .button-text {
+
+    display: block;
+  }

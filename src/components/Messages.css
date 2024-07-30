@@ -1,0 +1,118 @@
+.message {
+    padding: 8px;
+    margin-bottom: 8px;
+    border-radius: 8px;
+    clear: both; /* Pour forcer un saut de ligne */
+  }
+  
+  .sent {
+    background-color: #007bff; /* Bleu */
+    color: white;
+    float: right; /* Aligner à droite */
+  }
+  
+  .received {
+    background-color: #f0f0f0; /* Gris */
+    float: left; /* Aligner à gauche */
+  }
+
+  .messages-container {
+    max-height: calc(82vh - 200px); /* Réglage de la hauteur maximale de la zone de conversation */
+    overflow-y: auto; /* Ajout d'un défilement vertical lorsque nécessaire */
+  }
+  
+  .online-circle {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: green;
+  }
+  
+  .offline-circle {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: gray;
+  }
+  
+
+  .btn-primaire {
+
+
+    background-color: #0C134F;
+    color: white;
+    border-color: #0C134F;
+    }
+    
+     .btn-secondaire{
+      background-color: #7447FF;
+      color: white;
+    border-color: #7447FF;
+    
+    }
+    
+    .btn-primaire:hover {
+    
+    
+      background-color: #1e2455;
+      color: white;
+    
+      }
+    
+     .btn-secondaire:hover{
+    
+      background-color: #8761f9;
+      color:white;
+    
+    }
+
+
+    
+    .has-error .form-control {
+      border-color: red;
+  }
+  
+  .has-error .is-invalid {
+      border-color: red;
+  }
+  .btn-outline-custom-secondaire {
+    color: #7447FF;
+    background-color:#fff ;
+    border-color: #7447FF;
+  }
+  
+  .btn-outline-custom-primaire {
+    color: #1e2455;
+    background-color: #fff;
+    border-color: #1e2455;
+  }
+  
+  .btn-outline-custom-secondaire:hover {
+    color: #fff;
+    background-color: #7447FF;
+    border-color: #7447FF;
+  }
+  
+  .btn-outline-custom-primaire:hover {
+    color: #fff;
+    background-color: #1e2455;
+    border-color: #1e2455;
+  }
+
+
+
+  .message-content > span > a {
+    color: #333; /* Couleur du lien spécifiée */
+    text-decoration: underline; /* Suppression de la soulignement par défaut */
+  }
+  
+  .message-content > span > a:hover {
+    text-decoration: none; /* Soulignement lors du survol */
+    color: #555; /* Couleur du lien au survol */
+  }

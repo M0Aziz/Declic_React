@@ -1,0 +1,47 @@
+.nav-link.dropdown {
+    position: relative;
+  }
+  
+  .badge {
+    position: absolute;
+    top: -7px; /* ajustez la position verticale en fonction de vos besoins */
+    right: -12px; /* ajustez la position horizontale en fonction de vos besoins */
+    padding: 4px 8px;
+    border-radius: 80%;
+  }
+  .search-container {
+    position: relative;
+  }
+  
+  .search-input {
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 200px; /* Ajustez la largeur selon vos besoins */
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .search-container:hover  .search-input {
+    display: block;
+  }
+  .dropdown-menu.dropdown-menu-start {
+    margin-top: 10px;
+    left: -120px;
+  }
+
+  .dropdown-menu.dropdown-menu-start.notification {
+    margin-top: 10px;
+    left: -380px;
+  }
+  .bg_personalized{
+
+background-color: #e2e2e2;
+  }
+
+.x{
+color : #7348f5}
+
+

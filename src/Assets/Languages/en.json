@@ -1,0 +1,299 @@
+{
+    "navbar": {
+      "socialIcons": {
+        "facebook": "Facebook",
+        "twitter": "Twitter",
+        "instagram": "Instagram"
+      },
+      "location": {
+        "Available": "Address",
+        "notAvailable": "Location not available"
+      },
+      "languageSelect": {
+        "french": "French",
+        "english": "English"
+      },
+      "home": "Home",
+      "event": "Event",
+      "action": "Action",
+      "otherAction": "Other action",
+      "somethingElse": "Something else here",
+      "separateLink": "Separate link",
+      "aboutUs": "About Us",
+      "contactUs": "Contact Us",
+      "Sign_Up": "Sign Up",
+      "Sign_In": "Sign In",
+      "my-events": "My Events",
+      "joined": "Joined",
+      "upcoming": "Upcoming"
+    },
+
+
+    "aboutUsPage": {
+        "title": "Declic - Social Outings and Event Organization",
+        "description1": "Social network for outings, meetings, and events, fostering authentic connections and shared activities in the real world.",
+        "description2": "Connect with people who share the same interests as you! Outings and events are categorized based on interests. The Declic app will recommend events that match your interests and past outings.",
+        "description3": "Take the initiative and dive into event organization! Whether you want to try a new restaurant, start a new sport, or attend a festival with no one in your circle interested, Declic App gives you the chance to plan outings and connect with like-minded individuals.",
+        "description4": "Stay in touch and communicate with your friends! Declic allows you to follow other users and engage in discussions via chat.",
+        "description5": "Express yourself and attract new friendships! Each user can add a description to their profile, upload photos, and share their interests to introduce themselves to the community and attract people who want to get to know them in real life.",
+        "title2": "Ready to laugh and make new connections?",
+
+        "description6":  "Whether you've just moved and need new friends, are unsuccessful in finding love on dating sites, or maybe you're a professional looking to highlight your event, guess what? You've landed in the right place!",
+        "description7": "Here's the Déclic app, the ultimate catalyst for new connections and friendly outings and gatherings. With the Déclic app, you have the power to plan your own events, gatherings, and meetings, or to discover and join pre-organized events.",
+        "description8":"Our app offers the possibility to connect with new people and cultivate authentic relationships in the physical world, as well as to share and engage in activities aligned with your interests.",
+        "description9":  "This initial version of our app is multilingual and supports English, French, and Arabic. Be the brains behind new adventures or join other users for a fantastic time.",
+        "description10": "The Déclic team sends vibes for an amazing and fun-filled experience! May you catch this 'Déclic' for exciting new activities and great connections!"
+    },
+
+    
+    "footer": {
+        "description": "Discover Declic, your social platform dedicated to organizing friendly activities, meetings, and events. Connect with other members, explore new experiences, and stay informed through our newsletter. Join us today to create memorable moments and build authentic connections.",
+        "downloadOnAppStore": "Download on the App Store",
+        "downloadOnGooglePlay": "Download on Google Play",
+        "discover": "Discover",
+        "signUp": "Sign Up",
+        "logIn": "Log In",
+        "events": "Events",
+        "contactUs": "Contact Us",
+        "aboutUs": "About Us",
+        "newsletter": "Newsletter",
+        "emailPlaceholder": "Your email address",
+        "subscribeButton": "Subscribe",
+        "copyRight": "© 2023 Declic. All rights reserved."
+
+    },
+
+    "home": {
+        "joinDeclic": "Join Declic",
+        "declicDescription": "Social network for outings, meetings, and events, promoting authentic connections in the real world. Declic recommends events based on your interests, allows you to plan outings, and stay in touch with your friends.",
+
+        "welcome-title": "Let's Discover",
+        "welcome-message": "Welcome to our application",
+        "welcome-description": "Start your journey by signing up or logging in.",
+        "mobile-app-description": "You can also use our application on your smartphone.",
+        "download-on-appstore": "Download on the App Store",
+        "download-on-googleplay": "Download on Google Play",
+        "upcoming-events-heading": "Upcoming Events",
+        "no-participants-message": "No participants",
+        "join-event-button": "Join Event",
+        "join-event-button2": "See Event",
+
+        "recommended-upcoming-events-heading": "Recommended Upcoming Events",
+        "interest" : "Your interests",
+            "profile":"Your profile",
+            "location":"Your location",
+        "interest-match": "match this activity",
+        "profile-match": "matches this activity",
+        "location-match": "matches this activity",
+        "events-by-category-heading": "Events by Category",
+        "network-heading": "Declic - Friendly Outings and Event Organization",
+        "network-description": "Social network for outings, meetings, and events, promoting authentic connections and shared activities in the real world.",
+        "nyt-quote": "For women who travel or have moved to a new city, a similar social circle is now quickly accessible.",
+        "nyt-source": "- THE NEW YORK TIMES",
+         "unsubscribe-deadline": "Unsubscribe Deadline",
+  "free": "Free",
+      
+          "bottomSection": {
+            "card1Title": "Meet people who share your interests and location",
+            "card1Description": "Connect with individuals who share your passions. Declic recommends events based on your common interests and favorite activities.",
+            "card2Title": "Organize your own outings and events",
+            "card2Description": "Plan your outings and events. Declic gives you the opportunity to connect with people who share your interests.",
+            "card3Title": "Stay in touch and communicate with your friends",
+            "card3Description": "Stay connected and engage in discussions. Declic allows you to follow other users and participate in conversations.",
+            "declicHeading": "Declic - Social Outings and Event Organization",
+            "declicSubheading": "Social network for outings, meetings, and events, fostering authentic connections and shared activities in the real world."
+          },
+
+          
+            "declicSection": {
+              "heading": "Declic - Social Outings and Event Organization",
+              "subheading": "Social network for outings, meetings, and events, fostering authentic connections and shared activities in the real world.",
+              "socialIcons": {
+                "facebook": "Facebook",
+                "linkedin": "LinkedIn",
+                "instagram": "Instagram"
+              },
+              "discoverButton": "Discover"
+            },
+
+            "howItWorks": "How Declic Works",
+            "discoverEventsAndGroups": {
+              "title": "Discover Events and Groups",
+              "text": "See who is organizing events that match your interests near you",
+              "link": "Search for events and groups"
+            },
+            "createEvent": {
+              "title": "Create an Event to Organize Meetings",
+              "text": "Create your own Declic event and gather people with similar interests",
+              "link": "Create an event"
+            },
+            "joinDeclic2": {
+              "title": "Join Declic",
+              "description": "Sign up to join our community and start exploring exciting events.",
+              "button": "Sign Up"
+            },
+            "changeLives": {
+              "title": "The People We Meet Change Our Lives",
+              "text1": "Whether it's taking you on a new adventure, finding your place in a new city, connecting you with your next job, introducing you to the love of your life, or discussing a tough time, we all get by with a little help from our friends.",
+              "text2": "Declic empowers people to choose community over competition and harnesses the power of a global community like yours."
+            },
+            "takeFirstStep": {
+              "title": "Take the First Step Towards Adventure",
+              "text": "Explore new horizons near you! If you already have an account, log in to explore all available events and join the Declic community.",
+              "button": "Explore Events"
+            },
+
+
+            "Musique":"Music",
+            "Technologie":"Technology",
+            "Danse":"Dance",
+            "Art":"Art",
+            "Lecture":"Reading",
+            "Sports":"Sports"
+          
+          
+      
+        
+
+
+    },
+
+
+
+    
+      "Login": {
+        "Connexion": {
+          "header": "Login",
+          "connect_with_google": "Sign in with Google",
+          "connect_with_apple": "Sign in with Apple",
+          "email": "Email",
+          "password": "Password",
+          "login_button": "Login",
+          "register_link": "Register"
+        },
+        "Welcome_Back": {
+          "header": "Welcome Back!",
+          "subheader": "To keep connected with us please login with your personal info",
+          "sign_in_button": "Sign Up"
+        }
+      }, 
+
+      "Register": {
+      
+        
+          "Hello_Friend": "Hello, Friend!",
+          "Enter_your_personal_details": "Enter your personal details and start journey with us",
+          "Sign_Up": "Sign Up",
+          "title": "Sign Up ",
+          "connect_with_google": "Sign in with Google",
+          "connect_with_apple": "Sign in with Apple",
+          "First_Name": "First Name",
+          "Last_Name": "Last Name",
+          "Email": "Email",
+          "Password": "Password",
+          "Password_Length": "(Between 8 and 20 characters)",
+          "Profile_Picture": "Profile Picture",
+          "Register": "Register",
+          "User_Profile": "User Profile",
+          "Name": "Name",
+          "User_Email": "User Email"
+       
+      },
+      "event": {
+        "no-events-found": {
+          "title": "You don't have any events",
+          "description": "No events found at the moment. Why not create your own event and invite your friends?"
+        },
+        "no-joined-events": {
+          "title": "You haven't joined any events yet.",
+          "description1": "Discover unique experiences by joining our exciting events! Connect with fellow enthusiasts and share unforgettable moments.",
+          "description2": "Browse our selection of events and join the community today!"
+       
+        },
+        "no-upcoming-activities": {
+          "title": "No upcoming activities at the moment, but stay tuned!",
+          "description1": "It seems we don't have any upcoming activities right now, but don't worry, exciting new adventures are in the works.",
+          "description2": "Check back soon to discover our upcoming events and spice up your schedule!"
+      
+        },
+        "add-event-placeholder": "Add an Event",
+        "hide-filters": "Hide Filters",
+        "show-filters": "Show Filters",
+        "type-something-placeholder": "Type something...",
+        "back":"Back"
+
+      },
+
+      
+        "first-time": {
+          "username": "Username",
+          "username-info": "Your unique profile username.",
+          "profile-type": "Profile Type",
+          "profile-type-public": "Public",
+          "profile-type-private": "Private",
+          "profile-type-info": "Public profiles are visible to everyone. Private profiles hide your interests and photos from others.",
+          "bio": "Bio",
+          "bio-info": "Your bio must be at least 15 characters long.",
+          "birth-date": "Birth Date",
+          "birth-date-info": "You must be at least 15 years old.",
+          "city": "City",
+          "city-info": "Your city will be used to recommend events to you.",
+          "interests": "Interests",
+          "interests-info": "Choose at least 2 interests. This will be used to recommend events to you.",
+          "additional-images": "Additional Images",
+          "additional-images-info": "You must select between 2 and 5 images.",
+          "save-button": "Save",
+          "personal-info-title": "Personal Information",
+          "select-city-option": "Select a city",
+    "predefined-interests": {
+      "Sports":"Sports",
+      "Music":"Music",
+      "Cooking":"Cooking",
+      "Travel":"Travel",
+      "Art":"Art",
+      "Technology":"Technology",
+      "Photography":"Photography",
+      "Fashion":"Fashion",
+      "Reading":"Reading",
+      "Gardening":"Gardening",
+      "Dance":"Dance",
+      "Fitness":"Fitness"
+    },
+    "image-number-error1": "The number of images must be between ",
+    "image-number-error2": " and ",
+
+    "profile-creation-error": "Error creating profile:",
+    "request-error": "Request error: {{errorMessage}}"
+  
+        },
+
+        "contactUs": {
+    "title": "Contact Us",
+    "firstNamePlaceholder": "First Name",
+    "lastNamePlaceholder": "Last Name",
+    "emailPlaceholder": "Email Address",
+    "subjectPlaceholder": "Subject",
+    "messagePlaceholder": "Your message",
+    "sendButton": "Send",
+    "sendingButton": "Sending...",
+    "introText": "We look forward to hearing from you. Our team is happy to answer all your questions and provide you with the information you need. Contact us today to discover all the benefits of working with us!",
+    "phoneInfo": "Need immediate assistance? Call us at",
+    "phoneNumber": "+123456789",
+    "emailInfo": "For any email inquiries, send a message to",
+    "emailAddress": "contact@declic.com",
+    "addressInfo": "Find us at the following address:",
+    "address": "123 Rue de l'Entreprise, Paris, France",
+    "fieldsRequired": "All fields are required.",
+    "messageSent": "Your message has been sent successfully! We will get back to you soon.",
+    "sendError": "An error occurred while sending the message. Please try again later."
+
+  }
+      
+      
+    
+    
+    
+
+    
+  }
+  

@@ -1,0 +1,46 @@
+.interests-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px; /* Espace entre les boutons */
+  }
+  
+  .interest-button {
+    padding: 8px 16px; /* Espace autour du texte dans le bouton */
+    border: 1px solid #ccc; /* Bordure grise */
+    border-radius: 20px; /* Coins arrondis */
+    background-color: #f0f0f0; /* Couleur de fond */
+    color: #333; /* Couleur du texte */
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Transition fluide lors du survol */
+  }
+  
+  .interest-button:hover {
+    background-color: #e0e0e0; /* Changement de couleur de fond au survol */
+  }
+  
+
+  .qr-code{
+
+    background: linear-gradient(to right, #8761f9, #f3f2f2);
+  }
+
+
+  #modif1{
+
+    display: none;
+  }
+
+  #bloc1:hover #modif1{
+
+    display: block;
+  }
+
+  #modif2{
+
+    display: none;
+  }
+
+  #bloc2:hover #modif2{
+
+    display: block;
+  }
